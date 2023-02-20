@@ -1,0 +1,74 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #e5e5e5;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+  width: 370px;
+  background: #1e2939;
+}
+
+.cv-photo {
+  margin: 25px 0 0 0;
+}
+
+.header-secondary {
+  color: #ffffff;
+}
+
+.contact-links {
+  color: #ffffff;
+  Size: 14px;
+  Line height: 24px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.position {
+  color:#FB6D3A;
+}
+
+.list-secondary {
+  color: #FB6D3A;
+  Font-size: 14px;
+  Line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside; 
+}
+
+.list-secondary-item {
+  color: #ffffff;
+}
+
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.tech-skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+.icons {
+  margin-left: 40px;
+  margin-top: 47px;
+}
+
+main {
+  margin-left: 88px;
+  margin-top: 102px;
+  margin-right: 217px;
+}
